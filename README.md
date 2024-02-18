@@ -1,2 +1,2 @@
 # DevOps
-This repo is for storing DevOps Projects
+This repo is for storing CloudOps Projects
